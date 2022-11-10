@@ -1,0 +1,2 @@
+python src/train_model.py model-counting mc_nsnet_bird ~/scratch/NSNet/ModelCounting/BIRD/train/ --epochs 1000 --scheduler StepLR --lr_step_size 200
+python src/test_model.py model-counting ~/scratch/NSNet/ModelCounting/BIRD/test/ --checkpoint runs/mc_nsnet_bird/checkpoints/model_999.pt 

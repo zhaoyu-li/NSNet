@@ -1,0 +1,2 @@
+python src/test_model.py sat-solving ~/scratch/NSNet/SATSolving/3-sat/test --model BP --n_rounds 10
+python src/test_model.py sat-solving ~/scratch/NSNet/SATSolving/3-sat/test_hard --model BP --n_rounds 10

@@ -1,0 +1,3 @@
+[submodule "mis"]
+	path = external/MIS
+	url = https://github.com/meelgroup/mis
