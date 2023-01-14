@@ -5,7 +5,7 @@
 This is the official PyTorch implementation of the paper
 
 [NSNet: A General Neural Probabilistic Framework for Satisfiability Problems](https://arxiv.org/pdf/2211.03880.pdf)</br>
-[Zhaoyu Li](www.zhaoyu-li.com) and [Xujie Si](https://www.cs.mcgill.ca/~xsi/)</br>
+[Zhaoyu Li](https://www.zhaoyu-li.com) and [Xujie Si](https://www.cs.mcgill.ca/~xsi/)</br>
 In *36th Conference on Neural Information Processing Systems (NeurIPS 2022)*.
 
 ## Installation
